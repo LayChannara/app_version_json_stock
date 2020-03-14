@@ -1,6 +1,6 @@
 {
   "ios": {
-    "force_update_current_app": false,
+    "force_update_current_app": true,
     "force_update_current_verison": "1.0.1",
     "force_update_current_url": "http://nnps.focussolution.tech"
   },
